@@ -351,6 +351,7 @@
   .tag b{ color:var(--gold); }
   .sysline{ color:var(--muted); margin:0 0 6px; }
   .sysline b{ color:#d6d2c8; }
+  .sysline a{ word-break: break-all; }
   .postTitle{
     font-size:14px;
     margin-bottom:8px;
